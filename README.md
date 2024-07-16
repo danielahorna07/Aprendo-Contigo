@@ -1,5 +1,7 @@
 # Aprendo-Contigo
 
+### Versión 1 - 16/07/2024 - Analytics 180 DC
+
 **Objetivo:** Extraer la información de los voluntarios que llega al correo de Aprendo Contigo
 
 **Etapas:**
@@ -9,5 +11,3 @@
 4. Exportar al excel: La tabla limpia se extrae a un excel llamado "Base de Datos - Voluntarios".
 
 **Observación:** Se utilizan 5 bibliotecas durante todo el proceso. Si es la primera vez que se ejecuta el código, correr la primera linea para instalarlas (pip install)
-
-### Versión 1 - 16/07/2024 - Analytics 180 DC
