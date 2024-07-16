@@ -2,6 +2,8 @@
 
 ### Versión 1 - 16/07/2024 - Analytics 180 DC
 
+----------------------------------------------
+
 **Objetivo:** Extraer la información de los voluntarios que llega al correo de Aprendo Contigo
 
 **Etapas:**
